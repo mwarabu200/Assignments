@@ -1,0 +1,7 @@
+File Handling in Python is the ability to perform various operations on files, like reading from and writing to them.
+ Files are used to store data permanently (like text documents, images, or spreadsheets). 
+Unlike variables, which lose their values when a program ends, files provide persistent storage.
+Use with for file handling: Auto-close files, preventing potential leaks.
+Check file existence before reading/writing, to avoid crashes.
+Handle specific exceptions over general ones (e.g., FileNotFoundError instead of Exception).
+Document error messages clearly for easier debugging and user support.this is a modified version of input.txt this is a modified version of input.txt this is a modified version of input.txt 
